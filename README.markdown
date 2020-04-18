@@ -88,3 +88,4 @@ Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/
 ## License
 
 See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
+<a rel="nofollow" href="http://www.beian.miit.gov.cn" target="_blank">粤ICP备16086949号</a>
